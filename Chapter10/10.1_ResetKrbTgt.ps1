@@ -1,0 +1,1 @@
+Set-ADAccountPassword -Identity (Get-ADUser krbtgt).DistinguishedName Reset -NewPassword Rand0mCompl3xP@ssw0rd

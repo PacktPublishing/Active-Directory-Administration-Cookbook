@@ -1,0 +1,1 @@
+﻿Add-ADGroupMember "Cloneable Domain Controllers" "CN=dc03,OU=Domain Controllers,DC=lucernpub,DC=com"

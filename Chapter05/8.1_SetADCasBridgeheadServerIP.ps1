@@ -1,0 +1,2 @@
+Import-Module ActiveDirectory
+Set-ADObject -Identity "CN=DC1,CN=Servers,CN=Default-First-SiteName,CN=Sites,CN=Configuration,DC=LucernPub,DC=com" -Add @{bridgeHeadTransportList="CN=IP,CN=Inter-Site Transports,CN=Sites,CN=Configuration,DC=LucernPub,DC=com"} 

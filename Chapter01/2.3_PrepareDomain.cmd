@@ -1,0 +1,1 @@
+﻿adprep.exe /domainprep /domain lucernpub.com /user DomAdm /userdomain lucernpub /password P@ssw0rd

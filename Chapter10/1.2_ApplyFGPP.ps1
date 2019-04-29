@@ -1,0 +1,2 @@
+Import-Module ActiveDirectory
+Add-ADFineGrainedPasswordPolicySubject PolicyName -Subjects GroupName

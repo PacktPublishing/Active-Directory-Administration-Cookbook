@@ -1,0 +1,1 @@
+dsacls.exe "OU=Organizational Unit,DC=lucernpub,DC=com" /I:S /G LucernPub\Group:RPWP;"ms-DS-ConsistencyGUID";user

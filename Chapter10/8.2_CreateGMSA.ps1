@@ -1,0 +1,2 @@
+Import-Module ActiveDirectory
+New-ADServiceAccount MSAName –DNSHostName DomainController.domain.tld -PrincipalsAllowedToRetrieveManagedPassword AppServer1, AppServer2, AppServer3 
