@@ -1,1 +1,1 @@
-Wbadmin.exe start systemstatebackup --backuptarget:F:
+wbadmin.exe start systemstatebackup --backuptarget:F:
