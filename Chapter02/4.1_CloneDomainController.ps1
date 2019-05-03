@@ -1,1 +1,1 @@
-﻿New-ADDCCloneConfigFile -CloneComputerName "DC04" -SiteName "Remote Location" -Static -IPv4Address "10.0.1.3" -IPv4SubnetMask "255.255.255.0" -IPv4DefaultGateway "10.0.1.1" -IPv4DNSResolver "10.0.0.2"
+﻿New-ADDCCloneConfigFile -CloneComputerName "DC04" -SiteName RemoteLocation -Static -IPv4Address "10.0.1.3" -IPv4SubnetMask "255.255.255.0" -IPv4DefaultGateway "10.0.1.1" -IPv4DNSResolver "10.0.0.2"

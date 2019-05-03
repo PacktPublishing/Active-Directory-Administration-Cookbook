@@ -1,1 +1,1 @@
-ntdsutil.exe "activate instance ntds" "snaphost" "mount 1"
+ntdsutil.exe "activate instance ntds" "snapshot" "mount GUID" q q

@@ -1,1 +1,1 @@
-﻿dsrm.exe "CN=User,CN=Users,DC=lucernpub,DC=com"
+﻿dsrm.exe user "CN=User,CN=Users,DC=lucernpub,DC=com"

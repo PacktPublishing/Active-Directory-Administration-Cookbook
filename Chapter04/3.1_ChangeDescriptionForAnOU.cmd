@@ -1,1 +1,1 @@
-dsmod.exe "OU=Finance,DC=LucernPub,DC=com" -desc "New description"
+dsmod.exe ou "OU=Finance,DC=LucernPub,DC=com" -desc "New description"

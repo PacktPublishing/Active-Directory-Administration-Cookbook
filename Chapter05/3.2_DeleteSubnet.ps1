@@ -1,2 +1,2 @@
 Import-Module ActiveDirectory
-Remove-ADReplicationSubnet -Name 10.0.0.0/8 
+Remove-ADReplicationSubnet -Identity 10.0.0.0/8 

@@ -1,1 +1,1 @@
-ntdsutil.exe "activate instance ntds" "snapshot" "list all"
+ntdsutil.exe "activate instance ntds" "snapshot" "list all" q q

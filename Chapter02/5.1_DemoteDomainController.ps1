@@ -1,3 +1,4 @@
 ﻿Import-Module ADDSDeployment
-Uninstall-ADDSDomainController -DomainName lucernpub.com
+Uninstall-ADDSDomainController
+
 Uninstall-WindowsFeature AD-Domain-Services -IncludeManagementTools

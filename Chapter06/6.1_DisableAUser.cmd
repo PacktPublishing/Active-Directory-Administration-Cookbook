@@ -1,1 +1,1 @@
-﻿dsmod.exe "CN=User,CN=Users,DC=lucernpub,DC=com" -disabled yes
+﻿dsmod.exe user "CN=User,CN=Users,DC=lucernpub,DC=com" -disabled yes

@@ -1,1 +1,1 @@
-nltest.exe /server: DomainControllerName /sc_query:lucernpub.co
+nltest.exe /server:DomainControllerName /sc_query:lucernpub.co
