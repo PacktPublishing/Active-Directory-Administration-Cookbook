@@ -35,9 +35,9 @@ With the following software and hardware list you can run all code files present
 | 1-13 | Microsoft Windows Server 2019 |  |
 | 10 | Microsoft Local Administrator Password Solution (LAPS) | Windows 8.1, or up and Windows Server 2012, or up |
 | 11 | Microsoft SQL Server 2017 | Windows Vista, or up and Windows Server 2003 with Service Pack 2, or up |
-| 11,12 | x509 TLS Certificate |  |
+| 11-12 | x509 TLS Certificate |  |
 | 12 | Microsoft Pass-Through Authentication Agent | Windows Server 2012 R2, or up |
-| 12,13 | DNS Domain Name |  |
+| 12-13 | DNS Domain Name |  |
 | 13-14 | Microsoft Azure Active Directory tenant |  |
 | 13-14 | Microsoft Azure AD Connect | Windows Server 2012 R2, or up |
 
