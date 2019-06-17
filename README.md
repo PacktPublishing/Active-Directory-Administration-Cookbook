@@ -17,7 +17,7 @@ Create groups, modify group scope and type, and manage memberships
 Delegate control, view and modify permissions 
 Optimize Active Directory and Azure AD in terms of security 
 
-If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1-789-80698-4) today!
+If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1789806984) today!
 
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
 alt="https://www.packtpub.com/" border="5" /></a>
@@ -44,9 +44,9 @@ With the following software and hardware list you can run all code files present
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/9781789806984_ColorImages.pdf).
 
 ### Related products
-*  [[Packt]](https://prod.packtpub.com/in/application-development/identity-windows-server-2016-microsoft-70-742-mcsa-exam-guide?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1-838-55513-7)
+* Identity with Windows Server 2016: Microsoft 70-742 MCSA Exam Guide  [[Packt]](https://prod.packtpub.com/in/application-development/identity-windows-server-2016-microsoft-70-742-mcsa-exam-guide?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1838555137)
 
-* Mastering Windows Server 2019 - Second Edition  [[Packt]](https://prod.packtpub.com/in/virtualization-and-cloud/mastering-windows-server-2019-second-edition?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1-789-80453-1)
+* Mastering Windows Server 2019 - Second Edition  [[Packt]](https://prod.packtpub.com/in/virtualization-and-cloud/mastering-windows-server-2019-second-edition?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1789804531)
 
 
 ## Get to Know the Author
